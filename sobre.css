@@ -1,0 +1,9 @@
+body{
+    font-family: 'Lucida Sans', Helvetica, sans-serif;
+    color: black;
+}
+h1{
+    padding: 10px;
+    background-color: lightgray;
+    color: red;
+}
