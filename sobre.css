@@ -4,6 +4,8 @@ body{
 }
 h1{
     padding: 10px;
-    background-color: lightgray;
-    color: red;
+    background-color: #e3dec5;
+    color: black;
+    border-bottom: 5px solid black;
+    text-align: center;
 }
