@@ -1,10 +1,11 @@
 body{
     font-family: 'Lucida Sans', Helvetica, sans-serif;
     color: black;
+    background-color: #817a58;
 }
 h1{
     padding: 10px;
-    background-color: #e3dec5;
+    background-color: #d1ccb5;
     color: black;
     border-bottom: 5px solid black;
     text-align: center;
