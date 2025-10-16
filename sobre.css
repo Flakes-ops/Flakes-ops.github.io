@@ -2,6 +2,8 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
     background-color: #bbb389;
+    width: 80%;
+    max-width: 940px;
 }
 h1{
     padding: 10px;
